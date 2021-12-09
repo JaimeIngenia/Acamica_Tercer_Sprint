@@ -1,0 +1,10 @@
+.AppDark {
+    text-align: center;
+    background: #373737;
+    transition: all 1s ease;
+  }
+  
+  .AppLigth {
+    text-align: center;
+    transition: all 1s ease;
+  }

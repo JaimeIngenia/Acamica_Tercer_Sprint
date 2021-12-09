@@ -1,0 +1,51 @@
+/* .titulo{
+    color: blue;
+    border: solid 1px black;
+    width: 900px;
+    display: flex;
+    justify-content: end; 
+    align-items: center;
+} */
+.titulo{
+    color: blue;
+    /* border: solid 1px black; */
+    margin: 0 auto;
+    width: 900px;
+    background-color: #E7E7E7;
+    transition: all 1s ease;
+}
+.tituloLight{
+    color: blue;
+    /* border: solid 1px black; */
+    margin: 0 auto;
+    width: 900px;
+    background-color: #212121;
+    transition: all 1s ease;
+}
+.Resultado{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+
+.titulo{
+    display: flex;
+    flex-direction: column;
+    color:#572EE5;
+}
+h3{
+    margin-top: 20px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+}
+/* .contenedor{
+    display: flex;
+    flex-direction: center;
+} */
